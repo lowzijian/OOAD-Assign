@@ -1,0 +1,241 @@
+c:\users\user\documents\visual studio 2015\Projects\OOAD Assignment 1.1\OOAD Assignment 1.1\bin\Debug\OOAD Assignment 1.1.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\OOAD Assignment 1.1\OOAD Assignment 1.1\bin\Debug\OOAD Assignment 1.1.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\OOAD Assignment 1.1\OOAD Assignment 1.1\bin\Debug\OOAD Assignment 1.1.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.TGKForm.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.UserForm.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.MainMenuForm.resources
+C:\Users\lowba\Desktop\OOAD Assignment 1.1\OOAD Assignment 1.1\OOAD Assignment 1.1\bin\Debug\OOAD Assignment 1.1.exe.config
+C:\Users\lowba\Desktop\OOAD Assignment 1.1\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.exe
+C:\Users\lowba\Desktop\OOAD Assignment 1.1\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.pdb
+C:\Users\lowba\Desktop\OOAD Assignment 1.1\OOAD Assignment 1.1\OOAD Assignment 1.1\bin\Debug\OOAD Assignment 1.1.exe
+C:\Users\lowba\Desktop\OOAD Assignment 1.1\OOAD Assignment 1.1\OOAD Assignment 1.1\bin\Debug\OOAD Assignment 1.1.pdb
+C:\Users\lowba\Desktop\OOAD Assignment 1.1\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.csprojResolveAssemblyReference.cache
+C:\Users\lowba\Desktop\OOAD Assignment 1.1\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.TGKForm.resources
+C:\Users\lowba\Desktop\OOAD Assignment 1.1\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.UserForm.resources
+C:\Users\lowba\Desktop\OOAD Assignment 1.1\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.MainMenuForm.resources
+C:\Users\lowba\Desktop\OOAD Assignment 1.1\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.Properties.Resources.resources
+C:\Users\lowba\Desktop\OOAD Assignment 1.1\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.csproj.GenerateResource.Cache
+F:\Degree (Year1 Sem3)\OOAD\Assignment\OOAD Assignment 2.0.zip (Jack)\OOAD Assignment 2.0\OOAD Assignment 1.1\OOAD Assignment 1.1\bin\Debug\OOAD Assignment 1.1.exe.config
+F:\Degree (Year1 Sem3)\OOAD\Assignment\OOAD Assignment 2.0.zip (Jack)\OOAD Assignment 2.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.exe
+F:\Degree (Year1 Sem3)\OOAD\Assignment\OOAD Assignment 2.0.zip (Jack)\OOAD Assignment 2.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.pdb
+F:\Degree (Year1 Sem3)\OOAD\Assignment\OOAD Assignment 2.0.zip (Jack)\OOAD Assignment 2.0\OOAD Assignment 1.1\OOAD Assignment 1.1\bin\Debug\OOAD Assignment 1.1.exe
+F:\Degree (Year1 Sem3)\OOAD\Assignment\OOAD Assignment 2.0.zip (Jack)\OOAD Assignment 2.0\OOAD Assignment 1.1\OOAD Assignment 1.1\bin\Debug\OOAD Assignment 1.1.pdb
+F:\Degree (Year1 Sem3)\OOAD\Assignment\OOAD Assignment 2.0.zip (Jack)\OOAD Assignment 2.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.csprojResolveAssemblyReference.cache
+F:\Degree (Year1 Sem3)\OOAD\Assignment\OOAD Assignment 2.0.zip (Jack)\OOAD Assignment 2.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.TGKForm.resources
+F:\Degree (Year1 Sem3)\OOAD\Assignment\OOAD Assignment 2.0.zip (Jack)\OOAD Assignment 2.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.UserForm.resources
+F:\Degree (Year1 Sem3)\OOAD\Assignment\OOAD Assignment 2.0.zip (Jack)\OOAD Assignment 2.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.MainMenuForm.resources
+F:\Degree (Year1 Sem3)\OOAD\Assignment\OOAD Assignment 2.0.zip (Jack)\OOAD Assignment 2.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.Properties.Resources.resources
+F:\Degree (Year1 Sem3)\OOAD\Assignment\OOAD Assignment 2.0.zip (Jack)\OOAD Assignment 2.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.csproj.GenerateResource.Cache
+C:\Users\lowba\Desktop\OOAD Assignment 2.0\OOAD Assignment 1.1\OOAD Assignment 1.1\bin\Debug\OOAD Assignment 1.1.exe.config
+C:\Users\lowba\Desktop\OOAD Assignment 2.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.exe
+C:\Users\lowba\Desktop\OOAD Assignment 2.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.pdb
+C:\Users\lowba\Desktop\OOAD Assignment 2.0\OOAD Assignment 1.1\OOAD Assignment 1.1\bin\Debug\OOAD Assignment 1.1.exe
+C:\Users\lowba\Desktop\OOAD Assignment 2.0\OOAD Assignment 1.1\OOAD Assignment 1.1\bin\Debug\OOAD Assignment 1.1.pdb
+C:\Users\lowba\Desktop\OOAD Assignment 2.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.csprojResolveAssemblyReference.cache
+C:\Users\lowba\Desktop\OOAD Assignment 2.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.TGKForm.resources
+C:\Users\lowba\Desktop\OOAD Assignment 2.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.UserForm.resources
+C:\Users\lowba\Desktop\OOAD Assignment 2.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.MainMenuForm.resources
+C:\Users\lowba\Desktop\OOAD Assignment 2.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.Properties.Resources.resources
+C:\Users\lowba\Desktop\OOAD Assignment 2.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.csproj.GenerateResource.Cache
+C:\Users\lowba\Desktop\OOAD Assignment 2.1\OOAD Assignment 1.1\OOAD Assignment 1.1\bin\Debug\OOAD Assignment 1.1.exe.config
+C:\Users\lowba\Desktop\OOAD Assignment 2.1\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.exe
+C:\Users\lowba\Desktop\OOAD Assignment 2.1\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.pdb
+C:\Users\lowba\Desktop\OOAD Assignment 2.1\OOAD Assignment 1.1\OOAD Assignment 1.1\bin\Debug\OOAD Assignment 1.1.exe
+C:\Users\lowba\Desktop\OOAD Assignment 2.1\OOAD Assignment 1.1\OOAD Assignment 1.1\bin\Debug\OOAD Assignment 1.1.pdb
+C:\Users\lowba\Desktop\OOAD Assignment 2.1\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.csprojResolveAssemblyReference.cache
+C:\Users\lowba\Desktop\OOAD Assignment 2.1\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.TGKForm.resources
+C:\Users\lowba\Desktop\OOAD Assignment 2.1\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.UserForm.resources
+C:\Users\lowba\Desktop\OOAD Assignment 2.1\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.MainMenuForm.resources
+C:\Users\lowba\Desktop\OOAD Assignment 2.1\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.Properties.Resources.resources
+C:\Users\lowba\Desktop\OOAD Assignment 2.1\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.csproj.GenerateResource.Cache
+C:\Users\Wilson Loo\Documents\Visual Studio 2015\Projects\OOAD Assignment 2.1\OOAD Assignment 1.1\OOAD Assignment 1.1\bin\Debug\OOAD Assignment 1.1.exe.config
+C:\Users\Wilson Loo\Documents\Visual Studio 2015\Projects\OOAD Assignment 2.1\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.exe
+C:\Users\Wilson Loo\Documents\Visual Studio 2015\Projects\OOAD Assignment 2.1\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.pdb
+C:\Users\Wilson Loo\Documents\Visual Studio 2015\Projects\OOAD Assignment 2.1\OOAD Assignment 1.1\OOAD Assignment 1.1\bin\Debug\OOAD Assignment 1.1.exe
+C:\Users\Wilson Loo\Documents\Visual Studio 2015\Projects\OOAD Assignment 2.1\OOAD Assignment 1.1\OOAD Assignment 1.1\bin\Debug\OOAD Assignment 1.1.pdb
+C:\Users\Wilson Loo\Documents\Visual Studio 2015\Projects\OOAD Assignment 2.1\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.csprojResolveAssemblyReference.cache
+C:\Users\Wilson Loo\Documents\Visual Studio 2015\Projects\OOAD Assignment 2.1\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.TGKForm.resources
+C:\Users\Wilson Loo\Documents\Visual Studio 2015\Projects\OOAD Assignment 2.1\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.UserForm.resources
+C:\Users\Wilson Loo\Documents\Visual Studio 2015\Projects\OOAD Assignment 2.1\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.MainMenuForm.resources
+C:\Users\Wilson Loo\Documents\Visual Studio 2015\Projects\OOAD Assignment 2.1\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.Properties.Resources.resources
+C:\Users\Wilson Loo\Documents\Visual Studio 2015\Projects\OOAD Assignment 2.1\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.csproj.GenerateResource.Cache
+C:\Users\user\Downloads\OOAD Assignment 2.2\OOAD Assignment 2.2\OOAD Assignment 1.1\OOAD Assignment 1.1\bin\Debug\OOAD Assignment 1.1.exe.config
+C:\Users\user\Downloads\OOAD Assignment 2.2\OOAD Assignment 2.2\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.exe
+C:\Users\user\Downloads\OOAD Assignment 2.2\OOAD Assignment 2.2\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.pdb
+C:\Users\user\Downloads\OOAD Assignment 2.2\OOAD Assignment 2.2\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\OOAD Assignment 2.2\OOAD Assignment 2.2\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.TGKForm.resources
+C:\Users\user\Downloads\OOAD Assignment 2.2\OOAD Assignment 2.2\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.UserForm.resources
+C:\Users\user\Downloads\OOAD Assignment 2.2\OOAD Assignment 2.2\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.MainMenuForm.resources
+C:\Users\user\Downloads\OOAD Assignment 2.2\OOAD Assignment 2.2\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.Properties.Resources.resources
+C:\Users\user\Downloads\OOAD Assignment 2.2\OOAD Assignment 2.2\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.csproj.GenerateResource.Cache
+C:\Users\user\Downloads\OOAD Assignment 2.2\OOAD Assignment 2.2\OOAD Assignment 1.1\OOAD Assignment 1.1\bin\Debug\OOAD Assignment 1.1.exe
+C:\Users\user\Downloads\OOAD Assignment 2.2\OOAD Assignment 2.2\OOAD Assignment 1.1\OOAD Assignment 1.1\bin\Debug\OOAD Assignment 1.1.pdb
+C:\Users\lowba\Desktop\OOAD Assignment 2.2\OOAD Assignment 2.2\OOAD Assignment 1.1\OOAD Assignment 1.1\bin\Debug\OOAD Assignment 1.1.exe.config
+C:\Users\lowba\Desktop\OOAD Assignment 2.2\OOAD Assignment 2.2\OOAD Assignment 1.1\OOAD Assignment 1.1\bin\Debug\OOAD Assignment 1.1.exe
+C:\Users\lowba\Desktop\OOAD Assignment 2.2\OOAD Assignment 2.2\OOAD Assignment 1.1\OOAD Assignment 1.1\bin\Debug\OOAD Assignment 1.1.pdb
+C:\Users\lowba\Desktop\OOAD Assignment 2.2\OOAD Assignment 2.2\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.csprojResolveAssemblyReference.cache
+C:\Users\lowba\Desktop\OOAD Assignment 2.2\OOAD Assignment 2.2\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.TGKForm.resources
+C:\Users\lowba\Desktop\OOAD Assignment 2.2\OOAD Assignment 2.2\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.UserForm.resources
+C:\Users\lowba\Desktop\OOAD Assignment 2.2\OOAD Assignment 2.2\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.MainMenuForm.resources
+C:\Users\lowba\Desktop\OOAD Assignment 2.2\OOAD Assignment 2.2\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.Properties.Resources.resources
+C:\Users\lowba\Desktop\OOAD Assignment 2.2\OOAD Assignment 2.2\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.csproj.GenerateResource.Cache
+C:\Users\lowba\Desktop\OOAD Assignment 2.2\OOAD Assignment 2.2\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.exe
+C:\Users\lowba\Desktop\OOAD Assignment 2.2\OOAD Assignment 2.2\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.pdb
+C:\Users\user\Downloads\OOAD Assignment 2.3\OOAD Assignment 2.3\OOAD Assignment 2.2\OOAD Assignment 1.1\OOAD Assignment 1.1\bin\Debug\OOAD Assignment 1.1.exe.config
+C:\Users\user\Downloads\OOAD Assignment 2.3\OOAD Assignment 2.3\OOAD Assignment 2.2\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.exe
+C:\Users\user\Downloads\OOAD Assignment 2.3\OOAD Assignment 2.3\OOAD Assignment 2.2\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.pdb
+C:\Users\user\Downloads\OOAD Assignment 2.3\OOAD Assignment 2.3\OOAD Assignment 2.2\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\OOAD Assignment 2.3\OOAD Assignment 2.3\OOAD Assignment 2.2\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.TGKForm.resources
+C:\Users\user\Downloads\OOAD Assignment 2.3\OOAD Assignment 2.3\OOAD Assignment 2.2\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.UserForm.resources
+C:\Users\user\Downloads\OOAD Assignment 2.3\OOAD Assignment 2.3\OOAD Assignment 2.2\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.MainMenuForm.resources
+C:\Users\user\Downloads\OOAD Assignment 2.3\OOAD Assignment 2.3\OOAD Assignment 2.2\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.Properties.Resources.resources
+C:\Users\user\Downloads\OOAD Assignment 2.3\OOAD Assignment 2.3\OOAD Assignment 2.2\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.csproj.GenerateResource.Cache
+C:\Users\user\Downloads\OOAD Assignment 2.3\OOAD Assignment 2.3\OOAD Assignment 2.2\OOAD Assignment 1.1\OOAD Assignment 1.1\bin\Debug\OOAD Assignment 1.1.exe
+C:\Users\user\Downloads\OOAD Assignment 2.3\OOAD Assignment 2.3\OOAD Assignment 2.2\OOAD Assignment 1.1\OOAD Assignment 1.1\bin\Debug\OOAD Assignment 1.1.pdb
+F:\Degree (Year1 Sem3)\OOAD\Assignment\5th Backup\OOAD Assignment 2.3\OOAD Assignment 2.3\OOAD Assignment 2.2\OOAD Assignment 1.1\OOAD Assignment 1.1\bin\Debug\OOAD Assignment 1.1.exe.config
+F:\Degree (Year1 Sem3)\OOAD\Assignment\5th Backup\OOAD Assignment 2.3\OOAD Assignment 2.3\OOAD Assignment 2.2\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.exe
+F:\Degree (Year1 Sem3)\OOAD\Assignment\5th Backup\OOAD Assignment 2.3\OOAD Assignment 2.3\OOAD Assignment 2.2\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.pdb
+F:\Degree (Year1 Sem3)\OOAD\Assignment\5th Backup\OOAD Assignment 2.3\OOAD Assignment 1.1\OOAD Assignment 1.1\bin\Debug\OOAD Assignment 1.1.exe.config
+F:\Degree (Year1 Sem3)\OOAD\Assignment\5th Backup\OOAD Assignment 2.3\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.exe
+F:\Degree (Year1 Sem3)\OOAD\Assignment\5th Backup\OOAD Assignment 2.3\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.pdb
+F:\Degree (Year1 Sem3)\OOAD\Assignment\5th Backup\OOAD Assignment 2.3\OOAD Assignment 1.1\OOAD Assignment 1.1\bin\Debug\OOAD Assignment 1.1.exe
+F:\Degree (Year1 Sem3)\OOAD\Assignment\5th Backup\OOAD Assignment 2.3\OOAD Assignment 1.1\OOAD Assignment 1.1\bin\Debug\OOAD Assignment 1.1.pdb
+F:\Degree (Year1 Sem3)\OOAD\Assignment\5th Backup\OOAD Assignment 2.3\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.csprojResolveAssemblyReference.cache
+F:\Degree (Year1 Sem3)\OOAD\Assignment\5th Backup\OOAD Assignment 2.3\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.TGKForm.resources
+F:\Degree (Year1 Sem3)\OOAD\Assignment\5th Backup\OOAD Assignment 2.3\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.UserForm.resources
+F:\Degree (Year1 Sem3)\OOAD\Assignment\5th Backup\OOAD Assignment 2.3\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.MainMenuForm.resources
+F:\Degree (Year1 Sem3)\OOAD\Assignment\5th Backup\OOAD Assignment 2.3\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.Properties.Resources.resources
+F:\Degree (Year1 Sem3)\OOAD\Assignment\5th Backup\OOAD Assignment 2.3\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.csproj.GenerateResource.Cache
+C:\Users\lowba\Desktop\OOAD Assignment 3.0\OOAD Assignment 1.1\OOAD Assignment 1.1\bin\Debug\OOAD Assignment 1.1.exe.config
+C:\Users\lowba\Desktop\OOAD Assignment 3.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.exe
+C:\Users\lowba\Desktop\OOAD Assignment 3.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.pdb
+C:\Users\lowba\Desktop\OOAD Assignment 3.0\OOAD Assignment 1.1\OOAD Assignment 1.1\bin\Debug\OOAD Assignment 1.1.exe
+C:\Users\lowba\Desktop\OOAD Assignment 3.0\OOAD Assignment 1.1\OOAD Assignment 1.1\bin\Debug\OOAD Assignment 1.1.pdb
+C:\Users\lowba\Desktop\OOAD Assignment 3.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.csprojResolveAssemblyReference.cache
+C:\Users\lowba\Desktop\OOAD Assignment 3.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.TGKForm.resources
+C:\Users\lowba\Desktop\OOAD Assignment 3.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.UserForm.resources
+C:\Users\lowba\Desktop\OOAD Assignment 3.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.MainMenuForm.resources
+C:\Users\lowba\Desktop\OOAD Assignment 3.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.Properties.Resources.resources
+C:\Users\lowba\Desktop\OOAD Assignment 3.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.csproj.GenerateResource.Cache
+C:\Users\lowba\Desktop\OOAD Assignment 3.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.csproj.ResolveComReference.cache
+C:\Users\lowba\Desktop\OOAD Assignment 5.0\OOAD Assignment 1.1\OOAD Assignment 1.1\bin\Debug\OOAD Assignment 1.1.exe.config
+C:\Users\lowba\Desktop\OOAD Assignment 5.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.csproj.ResolveComReference.cache
+C:\Users\lowba\Desktop\OOAD Assignment 5.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.exe
+C:\Users\lowba\Desktop\OOAD Assignment 5.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.pdb
+C:\Users\lowba\Desktop\OOAD Assignment 5.0\OOAD Assignment 1.1\OOAD Assignment 1.1\bin\Debug\OOAD Assignment 1.1.exe
+C:\Users\lowba\Desktop\OOAD Assignment 5.0\OOAD Assignment 1.1\OOAD Assignment 1.1\bin\Debug\OOAD Assignment 1.1.pdb
+C:\Users\lowba\Desktop\OOAD Assignment 5.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.csprojResolveAssemblyReference.cache
+C:\Users\lowba\Desktop\OOAD Assignment 5.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.TGKForm.resources
+C:\Users\lowba\Desktop\OOAD Assignment 5.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.UserForm.resources
+C:\Users\lowba\Desktop\OOAD Assignment 5.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.MainMenuForm.resources
+C:\Users\lowba\Desktop\OOAD Assignment 5.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.Properties.Resources.resources
+C:\Users\lowba\Desktop\OOAD Assignment 5.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.csproj.GenerateResource.Cache
+C:\Users\lowba\Desktop\OOAD Assignment 6.0\OOAD Assignment 1.1\OOAD Assignment 1.1\bin\Debug\OOAD Assignment 1.1.exe.config
+C:\Users\lowba\Desktop\OOAD Assignment 6.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.csproj.ResolveComReference.cache
+C:\Users\lowba\Desktop\OOAD Assignment 6.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.exe
+C:\Users\lowba\Desktop\OOAD Assignment 6.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.pdb
+C:\Users\lowba\Desktop\OOAD Assignment 6.0\OOAD Assignment 1.1\OOAD Assignment 1.1\bin\Debug\OOAD Assignment 1.1.exe
+C:\Users\lowba\Desktop\OOAD Assignment 6.0\OOAD Assignment 1.1\OOAD Assignment 1.1\bin\Debug\OOAD Assignment 1.1.pdb
+C:\Users\lowba\Desktop\OOAD Assignment 6.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.csprojResolveAssemblyReference.cache
+C:\Users\lowba\Desktop\OOAD Assignment 6.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.TGKForm.resources
+C:\Users\lowba\Desktop\OOAD Assignment 6.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.UserForm.resources
+C:\Users\lowba\Desktop\OOAD Assignment 6.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.MainMenuForm.resources
+C:\Users\lowba\Desktop\OOAD Assignment 6.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.Properties.Resources.resources
+C:\Users\lowba\Desktop\OOAD Assignment 6.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\OOAD Assignment 7.0\OOAD Assignment 1.1\OOAD Assignment 1.1\bin\Debug\OOAD Assignment 1.1.exe.config
+C:\Users\User\Desktop\OOAD Assignment 7.0\OOAD Assignment 1.1\OOAD Assignment 1.1\bin\Debug\OOAD Assignment 1.1.exe
+C:\Users\User\Desktop\OOAD Assignment 7.0\OOAD Assignment 1.1\OOAD Assignment 1.1\bin\Debug\OOAD Assignment 1.1.pdb
+C:\Users\User\Desktop\OOAD Assignment 7.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\OOAD Assignment 7.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\OOAD Assignment 7.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.TGKForm.resources
+C:\Users\User\Desktop\OOAD Assignment 7.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.UserForm.resources
+C:\Users\User\Desktop\OOAD Assignment 7.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.MainMenuForm.resources
+C:\Users\User\Desktop\OOAD Assignment 7.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.Properties.Resources.resources
+C:\Users\User\Desktop\OOAD Assignment 7.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\OOAD Assignment 7.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.exe
+C:\Users\User\Desktop\OOAD Assignment 7.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.pdb
+C:\Users\lowba\Desktop\OOAD Assignment 8.0\OOAD Assignment 1.1\OOAD Assignment 1.1\bin\Debug\OOAD Assignment 1.1.exe.config
+C:\Users\lowba\Desktop\OOAD Assignment 8.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.csproj.ResolveComReference.cache
+C:\Users\lowba\Desktop\OOAD Assignment 8.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.exe
+C:\Users\lowba\Desktop\OOAD Assignment 8.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.pdb
+C:\Users\lowba\Desktop\OOAD Assignment 8.0\OOAD Assignment 1.1\OOAD Assignment 1.1\bin\Debug\OOAD Assignment 1.1.exe
+C:\Users\lowba\Desktop\OOAD Assignment 8.0\OOAD Assignment 1.1\OOAD Assignment 1.1\bin\Debug\OOAD Assignment 1.1.pdb
+C:\Users\lowba\Desktop\OOAD Assignment 8.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.csprojResolveAssemblyReference.cache
+C:\Users\lowba\Desktop\OOAD Assignment 8.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.TGKForm.resources
+C:\Users\lowba\Desktop\OOAD Assignment 8.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.UserForm.resources
+C:\Users\lowba\Desktop\OOAD Assignment 8.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.MainMenuForm.resources
+C:\Users\lowba\Desktop\OOAD Assignment 8.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.Properties.Resources.resources
+C:\Users\lowba\Desktop\OOAD Assignment 8.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.csproj.GenerateResource.Cache
+C:\Users\Wilson Loo\Desktop\OOAD Assignment 9.0\OOAD Assignment 1.1\OOAD Assignment 1.1\bin\Debug\OOAD Assignment 1.1.exe.config
+C:\Users\Wilson Loo\Desktop\OOAD Assignment 9.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.csproj.ResolveComReference.cache
+C:\Users\Wilson Loo\Desktop\OOAD Assignment 9.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.exe
+C:\Users\Wilson Loo\Desktop\OOAD Assignment 9.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.pdb
+C:\Users\Wilson Loo\Desktop\OOAD Assignment 9.0\OOAD Assignment 1.1\OOAD Assignment 1.1\bin\Debug\OOAD Assignment 1.1.exe
+C:\Users\Wilson Loo\Desktop\OOAD Assignment 9.0\OOAD Assignment 1.1\OOAD Assignment 1.1\bin\Debug\OOAD Assignment 1.1.pdb
+C:\Users\Wilson Loo\Desktop\OOAD Assignment 9.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.csprojResolveAssemblyReference.cache
+C:\Users\Wilson Loo\Desktop\OOAD Assignment 9.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.TGKForm.resources
+C:\Users\Wilson Loo\Desktop\OOAD Assignment 9.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.UserForm.resources
+C:\Users\Wilson Loo\Desktop\OOAD Assignment 9.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.MainMenuForm.resources
+C:\Users\Wilson Loo\Desktop\OOAD Assignment 9.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.Properties.Resources.resources
+C:\Users\Wilson Loo\Desktop\OOAD Assignment 9.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.csproj.GenerateResource.Cache
+F:\Degree (Year1 Sem3)\OOAD\Assignment\8th Backup\OOAD Assignment 9.0\OOAD Assignment 9.0\OOAD Assignment 1.1\OOAD Assignment 1.1\bin\Debug\OOAD Assignment 1.1.exe.config
+F:\Degree (Year1 Sem3)\OOAD\Assignment\8th Backup\OOAD Assignment 9.0\OOAD Assignment 9.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.csproj.ResolveComReference.cache
+F:\Degree (Year1 Sem3)\OOAD\Assignment\8th Backup\OOAD Assignment 9.0\OOAD Assignment 9.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.exe
+F:\Degree (Year1 Sem3)\OOAD\Assignment\8th Backup\OOAD Assignment 9.0\OOAD Assignment 9.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.pdb
+F:\Degree (Year1 Sem3)\OOAD\Assignment\8th Backup\OOAD Assignment 9.0\OOAD Assignment 9.0\OOAD Assignment 1.1\OOAD Assignment 1.1\bin\Debug\OOAD Assignment 1.1.exe
+F:\Degree (Year1 Sem3)\OOAD\Assignment\8th Backup\OOAD Assignment 9.0\OOAD Assignment 9.0\OOAD Assignment 1.1\OOAD Assignment 1.1\bin\Debug\OOAD Assignment 1.1.pdb
+F:\Degree (Year1 Sem3)\OOAD\Assignment\8th Backup\OOAD Assignment 9.0\OOAD Assignment 9.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.csprojResolveAssemblyReference.cache
+F:\Degree (Year1 Sem3)\OOAD\Assignment\8th Backup\OOAD Assignment 9.0\OOAD Assignment 9.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.TGKForm.resources
+F:\Degree (Year1 Sem3)\OOAD\Assignment\8th Backup\OOAD Assignment 9.0\OOAD Assignment 9.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.UserForm.resources
+F:\Degree (Year1 Sem3)\OOAD\Assignment\8th Backup\OOAD Assignment 9.0\OOAD Assignment 9.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.MainMenuForm.resources
+F:\Degree (Year1 Sem3)\OOAD\Assignment\8th Backup\OOAD Assignment 9.0\OOAD Assignment 9.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.Properties.Resources.resources
+F:\Degree (Year1 Sem3)\OOAD\Assignment\8th Backup\OOAD Assignment 9.0\OOAD Assignment 9.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.csproj.GenerateResource.Cache
+C:\Users\Wilson Loo\Desktop\OOAD Assignment 10.0\OOAD Assignment 9.0\OOAD Assignment 1.1\OOAD Assignment 1.1\bin\Debug\OOAD Assignment 1.1.exe.config
+C:\Users\Wilson Loo\Desktop\OOAD Assignment 10.0\OOAD Assignment 9.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.csproj.ResolveComReference.cache
+C:\Users\Wilson Loo\Desktop\OOAD Assignment 10.0\OOAD Assignment 9.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.exe
+C:\Users\Wilson Loo\Desktop\OOAD Assignment 10.0\OOAD Assignment 9.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.pdb
+C:\Users\Wilson Loo\Desktop\OOAD Assignment 10.0\OOAD Assignment 9.0\OOAD Assignment 1.1\OOAD Assignment 1.1\bin\Debug\OOAD Assignment 1.1.exe
+C:\Users\Wilson Loo\Desktop\OOAD Assignment 10.0\OOAD Assignment 9.0\OOAD Assignment 1.1\OOAD Assignment 1.1\bin\Debug\OOAD Assignment 1.1.pdb
+C:\Users\Wilson Loo\Desktop\OOAD Assignment 10.0\OOAD Assignment 9.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.csprojResolveAssemblyReference.cache
+C:\Users\Wilson Loo\Desktop\OOAD Assignment 10.0\OOAD Assignment 9.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.TGKForm.resources
+C:\Users\Wilson Loo\Desktop\OOAD Assignment 10.0\OOAD Assignment 9.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.UserForm.resources
+C:\Users\Wilson Loo\Desktop\OOAD Assignment 10.0\OOAD Assignment 9.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.MainMenuForm.resources
+C:\Users\Wilson Loo\Desktop\OOAD Assignment 10.0\OOAD Assignment 9.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.Properties.Resources.resources
+C:\Users\Wilson Loo\Desktop\OOAD Assignment 10.0\OOAD Assignment 9.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.csproj.GenerateResource.Cache
+C:\Users\Wilson Loo\Desktop\OOAD Assignment 10.0\OOAD Assignment 9.0\OOAD Assignment 1.1\OOAD Assignment 1.1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Wilson Loo\Desktop\OOAD Assignment 10.0\OOAD Assignment 9.0\OOAD Assignment 1.1\OOAD Assignment 1.1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Wilson Loo\Desktop\OOAD Assignment 10.0\OOAD Assignment 9.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\Interop.WMPLib.dll
+C:\Users\Wilson Loo\Desktop\OOAD Assignment 10.0\OOAD Assignment 9.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\AxInterop.WMPLib.dll
+H:\ChinKaiXiang_1603890-Part 2\OOAD Assignment 10.0\OOAD Assignment 10.0\OOAD Assignment 9.0\OOAD Assignment 1.1\OOAD Assignment 1.1\bin\Debug\OOAD Assignment 1.1.exe.config
+H:\ChinKaiXiang_1603890-Part 2\OOAD Assignment 10.0\OOAD Assignment 10.0\OOAD Assignment 9.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\Interop.WMPLib.dll
+H:\ChinKaiXiang_1603890-Part 2\OOAD Assignment 10.0\OOAD Assignment 10.0\OOAD Assignment 9.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\AxInterop.WMPLib.dll
+H:\ChinKaiXiang_1603890-Part 2\OOAD Assignment 10.0\OOAD Assignment 10.0\OOAD Assignment 9.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.csproj.ResolveComReference.cache
+H:\ChinKaiXiang_1603890-Part 2\OOAD Assignment 10.0\OOAD Assignment 10.0\OOAD Assignment 9.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.exe
+H:\ChinKaiXiang_1603890-Part 2\OOAD Assignment 10.0\OOAD Assignment 10.0\OOAD Assignment 9.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.pdb
+E:\Study\OOAD year 1 sem 3\OOAD ASSIGNMENT\Chin Kai Xiang 1603890 OOAD Assignment\OOAD Assignment 10.0\OOAD Assignment 1.1\OOAD Assignment 1.1\bin\Debug\OOAD Assignment 1.1.exe.config
+E:\Study\OOAD year 1 sem 3\OOAD ASSIGNMENT\Chin Kai Xiang 1603890 OOAD Assignment\OOAD Assignment 10.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\Interop.WMPLib.dll
+E:\Study\OOAD year 1 sem 3\OOAD ASSIGNMENT\Chin Kai Xiang 1603890 OOAD Assignment\OOAD Assignment 10.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\AxInterop.WMPLib.dll
+E:\Study\OOAD year 1 sem 3\OOAD ASSIGNMENT\Chin Kai Xiang 1603890 OOAD Assignment\OOAD Assignment 10.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.csproj.ResolveComReference.cache
+E:\Study\OOAD year 1 sem 3\OOAD ASSIGNMENT\Chin Kai Xiang 1603890 OOAD Assignment\OOAD Assignment 10.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.exe
+E:\Study\OOAD year 1 sem 3\OOAD ASSIGNMENT\Chin Kai Xiang 1603890 OOAD Assignment\OOAD Assignment 10.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.pdb
+E:\Study\OOAD year 1 sem 3\OOAD ASSIGNMENT\Chin Kai Xiang 1603890 OOAD Assignment\OOAD Assignment 10.0\OOAD Assignment 1.1\OOAD Assignment 1.1\bin\Debug\OOAD Assignment 1.1.exe
+E:\Study\OOAD year 1 sem 3\OOAD ASSIGNMENT\Chin Kai Xiang 1603890 OOAD Assignment\OOAD Assignment 10.0\OOAD Assignment 1.1\OOAD Assignment 1.1\bin\Debug\OOAD Assignment 1.1.pdb
+E:\Study\OOAD year 1 sem 3\OOAD ASSIGNMENT\Chin Kai Xiang 1603890 OOAD Assignment\OOAD Assignment 10.0\OOAD Assignment 1.1\OOAD Assignment 1.1\bin\Debug\Interop.WMPLib.dll
+E:\Study\OOAD year 1 sem 3\OOAD ASSIGNMENT\Chin Kai Xiang 1603890 OOAD Assignment\OOAD Assignment 10.0\OOAD Assignment 1.1\OOAD Assignment 1.1\bin\Debug\AxInterop.WMPLib.dll
+E:\Study\OOAD year 1 sem 3\OOAD ASSIGNMENT\Chin Kai Xiang 1603890 OOAD Assignment\OOAD Assignment 10.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.csprojResolveAssemblyReference.cache
+E:\Study\OOAD year 1 sem 3\OOAD ASSIGNMENT\Chin Kai Xiang 1603890 OOAD Assignment\OOAD Assignment 10.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.TGKForm.resources
+E:\Study\OOAD year 1 sem 3\OOAD ASSIGNMENT\Chin Kai Xiang 1603890 OOAD Assignment\OOAD Assignment 10.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.UserForm.resources
+E:\Study\OOAD year 1 sem 3\OOAD ASSIGNMENT\Chin Kai Xiang 1603890 OOAD Assignment\OOAD Assignment 10.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.MainMenuForm.resources
+E:\Study\OOAD year 1 sem 3\OOAD ASSIGNMENT\Chin Kai Xiang 1603890 OOAD Assignment\OOAD Assignment 10.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD_Assignment_1._1.Properties.Resources.resources
+E:\Study\OOAD year 1 sem 3\OOAD ASSIGNMENT\Chin Kai Xiang 1603890 OOAD Assignment\OOAD Assignment 10.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.csproj.GenerateResource.Cache
+E:\Study\OOAD year 1 sem 3\OOAD ASSIGNMENT\Chin Kai Xiang 1603890 OOAD Assignment Complete Version\OOAD Assignment 10.0\OOAD Assignment 1.1\OOAD Assignment 1.1\bin\Debug\OOAD Assignment 1.1.exe.config
+E:\Study\OOAD year 1 sem 3\OOAD ASSIGNMENT\Chin Kai Xiang 1603890 OOAD Assignment Complete Version\OOAD Assignment 10.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\Interop.WMPLib.dll
+E:\Study\OOAD year 1 sem 3\OOAD ASSIGNMENT\Chin Kai Xiang 1603890 OOAD Assignment Complete Version\OOAD Assignment 10.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\AxInterop.WMPLib.dll
+E:\Study\OOAD year 1 sem 3\OOAD ASSIGNMENT\Chin Kai Xiang 1603890 OOAD Assignment Complete Version\OOAD Assignment 10.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.csproj.ResolveComReference.cache
+E:\Study\OOAD year 1 sem 3\OOAD ASSIGNMENT\Chin Kai Xiang 1603890 OOAD Assignment Complete Version\OOAD Assignment 10.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.exe
+E:\Study\OOAD year 1 sem 3\OOAD ASSIGNMENT\Chin Kai Xiang 1603890 OOAD Assignment Complete Version\OOAD Assignment 10.0\OOAD Assignment 1.1\OOAD Assignment 1.1\obj\Debug\OOAD Assignment 1.1.pdb
